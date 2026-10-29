@@ -22,9 +22,9 @@ namespace ConsoleApp1
     {
         // URLs of the hosted files (read by the autograder - keep variable names unchanged).
         // TODO: replace with your own GitHub Pages URLs.
-        public static string xmlURL = "https://YOUR-USERNAME.github.io/YOUR-REPO/NationalParks.xml";            // Q1.2
-        public static string xmlErrorURL = "https://YOUR-USERNAME.github.io/YOUR-REPO/NationalParksErrors.xml";  // Q1.3
-        public static string xsdURL = "https://YOUR-USERNAME.github.io/YOUR-REPO/NationalParks.xsd";            // Q1.1
+        public static string xmlURL = "https://github.com/bunnie114/cse445_a4/blob/main/NationalParks.xml";            // Q1.2
+        public static string xmlErrorURL = "https://github.com/bunnie114/cse445_a4/blob/main/NationalParksErrors.xml";  // Q1.3
+        public static string xsdURL = "https://github.com/bunnie114/cse445_a4/blob/main/NationalParks.xsd";            // Q1.1
 
         public static void Main(string[] args)
         {
