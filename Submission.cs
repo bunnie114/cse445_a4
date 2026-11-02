@@ -21,9 +21,14 @@ namespace ConsoleApp1
     public class Submission
     {
         // URLs of the hosted files (read by the autograder - keep variable names unchanged).
-public static string xmlURL = "https://raw.githubusercontent.com/bunnie114/cse445_a4/main/NationalParks.xml";            // Q1.2
-public static string xmlErrorURL = "https://raw.githubusercontent.com/bunnie114/cse445_a4/main/NationalParksErrors.xml";  // Q1.3
-public static string xsdURL = "https://raw.githubusercontent.com/bunnie114/cse445_a4/main/NationalParks.xsd";            // Q1.1
+public static string xmlURL =
+    "https://bunnie114.github.io/cse445_a4/NationalParks.xml";
+
+public static string xmlErrorURL =
+    "https://bunnie114.github.io/cse445_a4/NationalParksErrors.xml";
+
+public static string xsdURL =
+    "https://bunnie114.github.io/cse445_a4/NationalParks.xsd";
 
         public static void Main(string[] args)
         {
